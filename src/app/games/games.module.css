@@ -1,12 +1,12 @@
 /* Variáveis globais de cores e estilos */
 :root {
-  --primary-color: #3a0ca3;
+  --primary-color: #70b8b5;
   --secondary-color: #4361ee;
-  --accent-color: #7209b7;
+  --accent-color: #5b8886;
   --background-color: #f8f9fa;
-  --text-color: #212529;
+  --text-color: #4a807e;
   --light-gray: #e9ecef;
-  --medium-gray: #adb5bd;
+  --medium-gray: #bcebe9;
   --dark-gray: #495057;
   --success-color: #28a745;
   --error-color: #dc3545;
@@ -155,7 +155,7 @@
 }
 
 .searchButton:hover {
-  background-color: #2f0885;
+  background-color: #556e6e;
 }
 
 .clearButton {
